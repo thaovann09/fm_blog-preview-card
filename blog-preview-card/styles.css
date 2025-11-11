@@ -34,7 +34,7 @@ body {
     border-radius: 20px;
     border: 1px solid var(--gray-color-500);
     box-shadow: 10px 10px var(--gray-color-950);
-    padding: 24px;
+    padding: 1.5rem;
 }
 
 .favicon {
@@ -73,4 +73,5 @@ body {
 .name {
     font-size: var(--font-size-sm);
 }
+
 
